@@ -1,0 +1,36 @@
+
+# Eclipse related files
+.classpath
+.cproject
+.deps
+.project
+.settings
+.metadata/
+
+# STS
+.springBeans
+# Maven and build related
+target/
+packages.mk
+
+# IntelliJ IDEA related files
+*.iml
+*.iws
+*.ipr
+.idea/
+
+.sonar-ide.properties
+
+
+*.orig
+*rebel*.xml
+.idea/
+
+/INSTALL
+/Makefile
+/aclocal.m4
+/autom4te.cache/
+/build/aux/
+/config.log
+/config.status
+/configure
